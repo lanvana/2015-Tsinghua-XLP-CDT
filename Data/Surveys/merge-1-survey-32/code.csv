@@ -1,0 +1,614 @@
+Q1,名字 Name,单选题
+,本题选项:,
+,1,艾尼亚尔·艾力汗木
+,2,陈逸鹏
+,3,陈煜
+,4,单子毓
+,5,杜迎霜
+,6,高畅
+,7,顾绍弘
+,8,郝育昆
+,9,贺琪
+,10,黄伟智
+,11,黄馨仪
+,12,李凯文
+,13,李奇钟
+,14,李强
+,15,李思宇
+,16,李腾飞
+,17,刘佳慧
+,18,刘思琪
+,19,卢晟昊
+,20,马晓健
+,21,门天立
+,22,倪锐晨
+,23,施孝儒
+,24,孙敬源
+,25,王荔妍
+,26,王骞
+,27,邬军
+,28,肖昌明
+,29,肖飞宇
+,30,杨昊光
+,31,杨奇
+,32,周大桐
+,33,周昊宸
+,34,周亦庄
+,35,周子淞
+,36,朱子霖
+,37,邹旭
+,38,其他 (Other)
+Q2,如果你的名字不在上述列表中，请在下面空中填写你的名字,填空题
+,本题选项:,
+,1,选项1
+Q3,小组 Team,单选题
+,本题选项:,
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+Q4,AWARENESS 意识我知道小组内的成员在做什么。I was aware of the activities members were working on in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q5,我知道小组成员什么时候可以面对面交流。I was aware when members were available to meet (either electronically or face-to-face) in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q6,我知道小组接下来要做什么。I was aware of what needed to be done next in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q7,COMPETENCE 才干我对小组里成员的技能感到非常自信I felt very confident about the members skills in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q8,小组成员可以胜任完成这项项目Members were very competent in terms of completing this project in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q9,小组成员有能力做自己需要做的任务Members were quite capable of performing the necessary tasks in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q10,CONFLICT 歧义在成员间存在很多异议Much disagreement existed between members.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q11,在成员间存在着很多性格冲突There was a great deal of personality conflicts between members.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 非常适应Extremely comfortable
+Q12,在成员间对于项目工作存在很多异议A great deal of disagreement regarding project work existed between members.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q13,SHARED IDENTITY 存在感我认为我对我的小组忠诚。I feel loyal towards my team.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q14,我把我自己看成小组的一员I see myself as a member of my team.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q15,我是小组的一员我感到很自豪。I am proud to think of myself as a member of my team.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q16,TRUST 信任我想更密切地掌握小组成员的工作。I wanted to more closely monitor the work of members in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q17,当小组成员处理重要的任务时，他们工作我会很放心。I was comfortable when members worked on a critical task or problem in the group.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q18,COORDINATION 合作 为了协调组员的努力下面有： To coordinate member effort there were:   协调工作的程序。Procedures for coordinating work.,单选题
+,本题选项:,
+,1,0 - 小程度Small Extent
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 很大程度Great Extent
+Q19,为了协调组员的努力下面有：To coordinate member effort there were: 项目里程碑和提交日期Project milestones and delivery schedules.,单选题
+,本题选项:,
+,1,0 - 小程度Small Extent
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 很大程度Great Extent
+Q20,为了协调组员的努力下面有：To coordinate member effort there were: 项目文件和备忘录Project documents and memos.,单选题
+,本题选项:,
+,1,0 - 小程度Small Extent
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 很大程度Great Extent
+Q21,为了协调组员的努力下面有：To coordinate member effort there were: 定期安排小组会议（面对面或者线上）Regularly scheduled team meetings (face-to-face and/or online).,单选题
+,本题选项:,
+,1,0 - 小程度Small Extent
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 很大程度Great Extent
+Q22,PERFORMANCE 表现,矩阵单选题
+,本题选项:,
+,1,0 - Low 低
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - High 高
+Q23,在团队做决定的过程中你的参与度如何？Please indicate your level of participation in team's decision making process.,单选题
+,本题选项:,
+,1,0 -完全不参与
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 一直参与
+Q24,你认为你在团队会议中的参与度如何？Please indicate how engaged do you feel in your team meetings,单选题
+,本题选项:,
+,1,0 -完全不参与
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 一直参与
+Q25,我在他人面前主张我的立场I advocate my position to others.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q26,我鼓励自己和其他人去说出他们知道的但害怕说出来的I encourage myself and others to say what they know yet fear to say.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q27,我处事正直，并且关心他人I act with integrity and demonstrate concern for others.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q28,你的团队设置了特定的工作流程去管理Did your team set specific workflows and procedures to manage your team's digital content?,单选题
+,本题选项:,
+,1,"是，我们建立了流程并遵循该流程。 Yes, we use them"
+,2,"是，我们建立了流程，但没有遵守。 Yes, we didn't use them"
+,3,没有建立流程 No
+Q29,我遵循了我的团队建立的工作流程I followed workflow procedures for collaboration set by my team,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q30,我觉得建立和遵循工作流程协作很重要I find it important to set up and follow workflow procedures for collaboration,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q31,你的团队会建立流程去管理任务和资源吗？Did your team set procedures to manage internal tasks and resources?,单选题
+,本题选项:,
+,1,"是，我们建立了流程并遵循该流程。 Yes, we use them"
+,2,"是，我们建立了流程，但没有遵守。 Yes, we didn't use them"
+,3,没有建立流程 No
+Q32,我对团队成员如何分配资源感到满意I feel comfortable with how my team allocates the resources among team members.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q33,我对团队成员如何分配任务感到满意I feel comfortable with how my team allocates the tasks among team members.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q34,我教授了其他成员新的技能或新的知识I have taught other participants new skills and/or knowledge,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q35,我从他人身上学到了新的技能和新的知识I learned new skills and/or knowledge from other participants,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q36,我的技术技能，影响了我的个人表现。My technical skills influenced my personal performance.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q37,我的技术技能，影响了我的团队表现。My technical skills influenced my team's performance.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q38,从其他参与者处获得技术帮助有多困难？How difficult it was to get technical help from other participants (free and paid),单选题
+,本题选项:,
+,1,0 -很简单
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 非常困难
+Q39,从技术支持部门获得技术帮助有多困难？How difficult it was to get technical help from technical support,单选题
+,本题选项:,
+,1,0 -很简单
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 非常困难
+Q40,技术支持服务定价合理。Technical support services were reasonably priced.,单选题
+,本题选项:,
+,1,0 - 完全不同意 Strongly disagree
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 完全同意 Strongly agree
+Q41,3D建模的挑战对你来说很困难吗？How difficult was 3D modelling challenge for you?,单选题
+,本题选项:,
+,1,0 -很简单
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 非常困难
+Q42,​请注明您在3D建模的挑战参与：Please indicate you involvement in the 3D modelling challenge:,矩阵单选题
+,本题选项:,
+,1,0 没参与
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 参与了
+Q43,Git游戏对你来说困难吗？How difficult was Git Game for you?,单选题
+,本题选项:,
+,1,0 -很简单
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 非常困难
+Q44,对你来说使用Git有多难？How difficult is it for you to use Git?,单选题
+,本题选项:,
+,1,0 -很简单
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 非常困难
+Q45,对你来说使用teambition有多难？How difficult is it for you to use Teambition?,单选题
+,本题选项:,
+,1,0 -很简单
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 - 非常困难
+Q46,我使用市场买入/卖出的产品或服务I used the market to buy/sell products or services,单选题
+,本题选项:,
+,1,0 -完全不同意
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 -完全同意
+Q47,我使用黑市或参与非法交易I used black market or participated in illegal transcations,单选题
+,本题选项:,
+,1,0 -完全不同意
+,2,1
+,3,2
+,4,3
+,5,4
+,6,5
+,7,6
+,8,7
+,9,8
+,10,9
+,11,10 -完全同意
+Q48,你通过XLP法庭解决过冲突吗？Have you used XLP Court to  resolve conflicts?,单选题
+,本题选项:,
+,1,"有，解决了 Yes, resolved."
+,2,"有，但没解决 Yes, unsolved."
+,3,没有 No.
